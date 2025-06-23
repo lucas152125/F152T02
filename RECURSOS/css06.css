@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*  Paleta de Colores:
+    347433
+    FFC107
+    FF6F3C
+    B22222 */
+body {
+    background-color: #347433;
+    width: 80%;
+    border: 3px solid #FF6F3C;
+    text-align: center;
+    margin: 20px auto;
+}
+
+header {
+    background-color: #FFC107;
+    border: 5px solid #347433;
+}
+
+main {
+    background-color: #FF6F3C;
+    border: 5px solid #347433;
+}
+
+footer {
+    background-color: #B22222;
+    border: 5px solid #347433;
+}

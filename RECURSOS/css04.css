@@ -1,0 +1,36 @@
+.parrafo{
+    width: 50%;
+    height: 30%;
+}
+
+.p1{
+    border:solid;
+}
+
+.p2{
+    border: dashed;
+}
+
+.p3{
+    border: double;
+}
+
+.p4{
+    border: groove;
+}
+
+.p5{
+    border:ridge;
+}
+
+.p6{
+    border:inset;
+}
+
+.p7{
+    border:outset;
+}
+
+.p8{
+    border:hidden;
+}

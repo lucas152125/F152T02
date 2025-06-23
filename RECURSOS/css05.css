@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+.parrafo{
+    width: 50%;
+    height: auto;
+
+<<<<<<< HEAD
+    border: 2px;
+=======
+    border: 2xp;
+>>>>>>> b93f68c3a05b0acf8d3b6ee594f5b1310df8ceee
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.p1{
+    background-color: blue;
+    color:white;
+    text-align: center;
+}
+
+.p2{
+    background-color: yellow;
+    color:red;
+    text-align: right;
+}
+
+.p3{
+    background-color: blueviolet;
+    color:aqua;
+    text-align: left;
+}

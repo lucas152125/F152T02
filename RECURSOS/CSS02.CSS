@@ -1,0 +1,42 @@
+#parrafo1{
+    background-color: yellow;
+    color:blue;
+
+    width:400px;
+    height:350px;
+
+    border: 2px solid green;
+<<<<<<< HEAD
+    overflow: visible
+=======
+    overflow: visible;
+>>>>>>> b93f68c3a05b0acf8d3b6ee594f5b1310df8ceee
+}
+
+#parrafo2{
+    background-color: blue;
+    color: yellow;
+
+    width: 400px;
+    height: 250xp;
+
+    border: 2px solid violet;
+    overflow: hidden;
+}
+
+#parrafo3{
+    background-color: red;
+    color:white;
+
+    width:500px;
+<<<<<<< HEAD
+    height:200px;
+
+    border: 2px solid black;
+    overflow: scroll;
+=======
+    height:200xp;
+    overflow:scroll;
+>>>>>>> b93f68c3a05b0acf8d3b6ee594f5b1310df8ceee
+}
+
